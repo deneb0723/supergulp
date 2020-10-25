@@ -6,6 +6,10 @@
   "repository": "https://github.com/deneb0723/supergulp.git",
   "author": "denev <65989857+deneb0723@users.noreply.github.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
   "devDependencies": {
     "@babel/core": "^7.12.3",
     "@babel/preset-env": "^7.12.1",
